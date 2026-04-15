@@ -1,0 +1,58 @@
+{
+    "creators": [
+        {
+            "name": "Morris, Valerie A.",
+            "orcid": "0000-0002-8105-585X",
+            "affiliation": "INSTAAR, University of Colorado Boulder",
+            "type": "ProjectMember"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Vimont, Aaron J.",
+            "affiliation": "INSTAAR, University of Colorado Boulder",
+            "type": "ProjectMember"
+        },
+        {
+            "name": "Gkinis, Vasileios",
+            "affiliation": "Niels Bohr Institute, University of Copenhagen, Denmark",
+            "type": "ProjectMember"
+        },
+        {
+            "name": "Jones, Tyler R.",
+            "affiliation": "INSTAAR, University of Colorado Boulder",
+            "type": "ProjectMember"
+        },
+        {
+            "name": "White, James W.C.",
+            "affiliation": "INSTAAR, University of Colorado Boulder",
+            "type": "ProjectLeader"
+        },
+        {
+            "name": "Vaughn, Bruce H.",
+            "affiliation": "INSTAAR, University of Colorado Boulder",
+            "type": "ProjectLeader"
+        }
+    ],
+    "title": "EGRIP Crunch",
+    "version": "1.7b",
+    "access_right": "open",
+    "keywords": [
+        "ice-core science",
+        "water stable isotopes",
+        "EGRIP"
+    ],
+    "license": "lgpl-3.0-or-later",
+    "upload_type": "software",
+    "language": "eng",
+    "grants": [
+        {
+            "id": "NSF award #1804098"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "data-processing-software"
+        }
+    ]
+}
